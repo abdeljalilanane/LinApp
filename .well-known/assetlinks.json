@@ -1,0 +1,7 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { 
+  	"namespace": "android_app", 
+  	"package_name": "fr.kpmg.Constellation.rec",
+  "sha256_cert_fingerprints": ["8E:E5:96:DB:13:B1:29:35:E9:58:57:23:CE:D3:40:F8:90:43:C4:75:CF:A8:51:74:39:94:EC:DE:C9:0D:60:08"] }
+}]
